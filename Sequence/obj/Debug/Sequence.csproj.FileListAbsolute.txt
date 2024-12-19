@@ -1,0 +1,10 @@
+E:\Институт\C#\Sequence\Sequence\bin\Debug\Sequence.exe.config
+E:\Институт\C#\Sequence\Sequence\bin\Debug\Sequence.exe
+E:\Институт\C#\Sequence\Sequence\bin\Debug\Sequence.pdb
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.csproj.AssemblyReference.cache
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.Form1.resources
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.Properties.Resources.resources
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.csproj.GenerateResource.cache
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.exe
+E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.pdb
