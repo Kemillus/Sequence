@@ -64,6 +64,8 @@
             this.listBoxItem.Name = "listBoxItem";
             this.listBoxItem.Size = new System.Drawing.Size(120, 186);
             this.listBoxItem.TabIndex = 1;
+            this.listBoxItem.SelectedIndexChanged += new System.EventHandler(this.UpdateComboBoxes);
+            this.listBoxItem.SizeChanged += new System.EventHandler(this.UpdateComboBoxes);
             // 
             // label2
             // 
@@ -89,6 +91,7 @@
             this.buttonGetItem.TabIndex = 4;
             this.buttonGetItem.Text = "Get Item";
             this.buttonGetItem.UseVisualStyleBackColor = true;
+            this.buttonGetItem.Click += new System.EventHandler(this.GetButton_Click);
             // 
             // textBoxValue
             // 
@@ -114,6 +117,7 @@
             this.buttonInsertItem.TabIndex = 7;
             this.buttonInsertItem.Text = "Insert Item";
             this.buttonInsertItem.UseVisualStyleBackColor = true;
+            this.buttonInsertItem.Click += new System.EventHandler(this.AddButton_Click);
             // 
             // buttonGetSequence
             // 
@@ -123,6 +127,7 @@
             this.buttonGetSequence.TabIndex = 8;
             this.buttonGetSequence.Text = "Get Subsequence";
             this.buttonGetSequence.UseVisualStyleBackColor = true;
+            this.buttonGetSequence.Click += new System.EventHandler(this.GetSubsequenceButton_Click);
             // 
             // listBoxTransformation
             // 
@@ -144,7 +149,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(315, 220);
+            this.label4.Location = new System.Drawing.Point(288, 220);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(32, 13);
             this.label4.TabIndex = 12;

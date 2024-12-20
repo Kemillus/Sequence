@@ -8,3 +8,13 @@ E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.csproj.GenerateResou
 E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
 E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.exe
 E:\Институт\C#\Sequence\Sequence\obj\Debug\Sequence.pdb
+D:\Veronika\Sequence\Sequence\bin\Debug\Sequence.exe.config
+D:\Veronika\Sequence\Sequence\bin\Debug\Sequence.exe
+D:\Veronika\Sequence\Sequence\bin\Debug\Sequence.pdb
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.csproj.AssemblyReference.cache
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.Form1.resources
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.Properties.Resources.resources
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.csproj.GenerateResource.cache
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.exe
+D:\Veronika\Sequence\Sequence\obj\Debug\Sequence.pdb
